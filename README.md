@@ -16,11 +16,9 @@
 # Project Overview 
 |     Project     |                 Skills                |     Tools         |      Link       |
 | --------------- | ------------------------------------- | ---------------   | --------------- |
-| Honeypot and attack
-vector Analysis       | Honeypot Deployment ,Log management,
-Attack Vector Analysis | Hydra, OWASP ZAP ,|  <a href="https://github.com/abinp0/Honeypot-and-Attack-Vector-Analysis">Cowrie</a>   |
-|                 |                | Social Engineering|                 |
-|                 |                                       | Splunk            |                 |
+| Honeypot and Attack vector Analysis | Honeypot Deployment ,Log management,Attack Vector Analysis , Social Engineering , Splunk | Hydra, OWASP ZAP ,|  <a href="https://github.com/abinp0/Honeypot-and-Attack-Vector-Analysis">Honeypot</a>   |
+|                 |                |                      |                   |
+|                 |                                       |                   |                 |
 
 
 # Certifications 
