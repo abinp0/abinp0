@@ -16,7 +16,7 @@
 # Project Overview 
 |     Project     |                 Skills                |     Tools         |      Link       |
 | --------------- | ------------------------------------- | ---------------   | --------------- |
-| Honeypot        | Honeypot Deployment ,Log management,  | Hydra, OWASP ZAP ,|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">Cowrie</a>   |
+| Honeypot and attack vector Analysis       | Honeypot Deployment ,Log management,  | Hydra, OWASP ZAP ,|  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">Cowrie</a>   |
 |                 | Attack Vector Analysis                | Social Engineering|                 |
 |                 |                                       | Splunk            |                 |
 
