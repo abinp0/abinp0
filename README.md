@@ -18,7 +18,7 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
+| API Sec Fundamentals   |                20/2023                |     <a href="https://www.credly.com/badges/07e09040-018c-4a9a-bbb1-56c401ed538f/linked_in_profile">API SEC cert        | 
 
 
 <!-- <h2>📺 Popular YouTube Videos</h2>
